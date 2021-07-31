@@ -15,7 +15,7 @@
 <li class="has-line-data" data-line-start="15" data-line-end="17">Sadece özyinelemeli fonksiyon kullanarak yapılmıştır eğer istiyorsanız döngü kullanarak da yapılabilir.<br>
 (It’s just done using a recursive function, if you want it can also be done using a loop.)</li>
 <li class="has-line-data" data-line-start="17" data-line-end="19">Daha detaylı bilgi edinmek için <a href="https://www.youtube.com/watch?v=0JUN9aDxVmI">https://www.youtube.com/watch?v=0JUN9aDxVmI</a> dersini izleyebilirsiniz.<br>
-(For more detailed information, you can watch the lesson <a href="https://www.youtube.com/watch?v=0JUN9aDxVmI.)">https://www.youtube.com/watch?v=0JUN9aDxVmI.)</a></li>
+(For more detailed information, you can watch the lesson <a href="https://www.youtube.com/watch?v=0JUN9aDxVmI )">https://www.youtube.com/watch?v=0JUN9aDxVmI.)</a></li>
 </ul>
 <hr>
 <h1 class="code-line" data-line-start=21 data-line-end=22 ><a id="License_21"></a>License</h1>
