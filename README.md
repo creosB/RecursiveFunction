@@ -2,6 +2,7 @@
 <p class="has-line-data" data-line-start="1" data-line-end="2"></a><a href="http://www.artistscompany.tech"><img src="https://raw.githubusercontent.com/creosB/presentation/main/background.png" alt="Artists Company" title="Artists Company"></p>
 <h2 class="code-line" data-line-start=2 data-line-end=3 ><a id="C_dili_iin_sadece_zyinelemeli_fonksiyon_kullanarak_eitli_rnekler_oluturdum_2"></a>C++ dili için sadece özyinelemeli fonksiyon kullanarak çeşitli örnekler oluşturdum.</h2>
 <h2 class="code-line" data-line-start=3 data-line-end=4 ><a id="I_have_created_several_examples_for_the_C_language_using_only_recursive_functions_3"></a>I have created several examples for the C++ language using only recursive functions.</h2>
+<a href="https://www.buymeacoffee.com/creos" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 <h1 class="code-line" data-line-start=5 data-line-end=6 ><a id="zelikleri__Properties_5"></a>Özelikleri / Properties</h1>
 <ul>
 <li class="has-line-data" data-line-start="7" data-line-end="9">Alt taraftan görsel olarak inceleyebilirsiniz. / You can visually inspect below</li>
